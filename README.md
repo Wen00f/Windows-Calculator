@@ -1,2 +1,2 @@
 # Windows-Calculator
-一个由初中学生制作的Windows计算器我知道Windows有计算器而且功能强大但是我很无聊，
+一个由初中学生制作的Windows计算器我知道Windows有计算器而且功能强大但是我很无聊，而且我想实践一下我的代码能力，
