@@ -41,7 +41,7 @@ int main()
     std::cin >> b;
     std::cout << "请输入运算符" <<std::endl;
     std::cin >> c;
-    switch (c)
+    switch (c)//核心判断
     {
     case '+':
         d = addition(a,b);
